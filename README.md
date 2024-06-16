@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working as *Open Source Contributor*
 
-- 🌱 I’m currently learning *Full Stack Java Development | MERN*
+- 🌱 I’m currently learning **Full Stack Java Development | MERN**
 
 - 💬 Ask me about *Web development, Core Java, OOPS*
 
-- 🌎 I know *English, Hindi, Marathi, Turkish.*
+- 🌎 I know **English, Hindi, Marathi, Turkish.**
 - ⚡ About Me: I'm a *Day Dreamer*
-- 📍 From India
+- 📍 From **India**
 
 ## Connect with me 
 
@@ -29,7 +29,7 @@
 
 <p align="center">
 
--  *Languages:* 
+-  **Languages:**
 
     ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![Core Java](https://img.shields.io/badge/Core%20Java-CC2927?style=for-the-badge&logo=Core%20Java&logoColor=white) 
@@ -40,7 +40,7 @@
     ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
    
     
--  *Frameworks I've Worked on:*
+-  **Frameworks I've Worked on:**
 
    ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -49,7 +49,7 @@
    ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
    ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
     
-- *Databases:*
+- **Databases:**
   
     ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -57,7 +57,7 @@
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
 
     
-- *Application and Tools:*
+- **Application and Tools:**
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
