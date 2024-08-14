@@ -18,7 +18,7 @@
 
 - 💬 Ask me about *Web development, Core Java, OOPS*
 
-- 🌎 I know **English, Hindi, Marathi, Turkish.**
+- 🌎 I know **English, Hindi, Marathi, and Turkish.**
 - ⚡ About Me: I'm a *Day Dreamer*
 - 📍 From **India**
 
