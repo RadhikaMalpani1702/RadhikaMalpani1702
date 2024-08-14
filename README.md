@@ -93,10 +93,10 @@
 
 <br />
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RadhikaMalpani1702&show_icons=true&locale=en&theme=midnight-purple" alt="RadhikaMalpani1702" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RadhikaMalpani1702&show_icons=true&locale=en&theme=ambient_gradient" alt="RadhikaMalpani1702" />
 </p>
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RadhikaMalpani1702&theme=midnight-purple" alt="RadhikaMalpani1702" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RadhikaMalpani1702&theme=ambient_gradient" alt="RadhikaMalpani1702" />
 </p>
 
 #### Thank You For The Visit !!
