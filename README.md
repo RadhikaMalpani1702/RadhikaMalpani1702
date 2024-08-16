@@ -2,8 +2,6 @@
 
 ![Radhika Malpani (2)](https://github.com/RadhikaMalpani1702/RadhikaMalpani1702/assets/163530398/ccfabad9-f3b1-47fe-b612-2ac18da6b240)
 
-
-
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Radhika Malpani</h1>
 <h3 align="center">A Passionate Java Full Stack/Web developer | Software Engineer Enthusiast</h3>
 
