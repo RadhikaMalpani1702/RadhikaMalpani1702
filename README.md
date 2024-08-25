@@ -96,5 +96,16 @@
 <p align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RadhikaMalpani1702&theme=midnight-purple" alt="RadhikaMalpani1702" />
 </p>
+</br>
+<p align="center">
+  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
+</p>
 
-#### Thank You For The Visit !!
+
+<p align="center">
+  <a href="https://buymeacoffee.com/radhikamalpani" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
+
+
