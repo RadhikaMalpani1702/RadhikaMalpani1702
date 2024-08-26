@@ -90,13 +90,26 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br />
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RadhikaMalpani1702&show_icons=true&locale=en&theme=midnight-purple" alt="RadhikaMalpani1702" />
-</p>
-<p align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RadhikaMalpani1702&theme=midnight-purple" alt="RadhikaMalpani1702" />
-</p>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radhikamalpani1702&theme=2077" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=radhikamalpani1702&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=radhikamalpani1702&theme=midnight-purple" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
 </br>
+
 <p align="center">
   <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
 </p>
