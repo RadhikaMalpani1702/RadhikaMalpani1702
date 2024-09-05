@@ -5,7 +5,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Radhika Malpani</h1>
 <h3 align="center">A Passionate Java Full Stack/Web developer | Software Engineer Enthusiast</h3>
 
-
 <br/>
 
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
