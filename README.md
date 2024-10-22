@@ -100,7 +100,7 @@
 </div>
 
 ## Hacktoberfest 2024 Badges
-[![An image of @radhikamalpani1702's Holopin badges, which is a link to view their full Holopin profile](https://github.com/user-attachments/assets/b9e87feb-d983-4561-b05e-55af1dc5ee71)](https://holopin.io/@radhikamalpani1702)
+[![An image of @radhikamalpani1702's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/radhikamalpani1702)](https://holopin.io/@radhikamalpani1702)
 
 
 
