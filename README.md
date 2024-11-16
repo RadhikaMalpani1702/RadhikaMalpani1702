@@ -112,7 +112,7 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radhikamalpani1702&theme=2077" alt="Profile Summary">
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radhikamalpani1702&theme=midnight-purple" alt="Profile Summary">
 </td>
 </tr>
 </table>
