@@ -112,7 +112,7 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radhikamalpani1702&theme=radical" alt="Profile Summary">
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radhikamalpani1702&theme=tokyonight" alt="Profile Summary">
 </td>
 </tr>
 </table>
@@ -120,10 +120,10 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=radhikamalpani1702&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=radhikamalpani1702&show_icons=true&locale=en&theme=ambient_gradient" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=radhikamalpani1702&theme=midnight-purple" alt="Streak Stats"/>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=radhikamalpani1702&theme=ambient_gradient" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
