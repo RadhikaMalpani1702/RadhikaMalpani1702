@@ -100,8 +100,6 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
 </div>
 
-## Hacktoberfest 2024 Badges
-[![An image of @radhikamalpani1702's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/radhikamalpani1702)](https://holopin.io/@radhikamalpani1702)
 
 
 
