@@ -109,13 +109,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br />
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radhikamalpani1702&theme=tokyonight" alt="Profile Summary">
-</td>
-</tr>
-</table>
 
 <table width="100%" align="center">
 <tr>
