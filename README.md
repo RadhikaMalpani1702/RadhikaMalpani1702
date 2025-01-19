@@ -1,4 +1,3 @@
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikamalpani1702&label=Profile%20views&color=0e75b6&style=flat" alt="radhikamalpani1702" /> </p>
 
 ![Radhika Malpani (2)](https://github.com/RadhikaMalpani1702/RadhikaMalpani1702/assets/163530398/ccfabad9-f3b1-47fe-b612-2ac18da6b240)
